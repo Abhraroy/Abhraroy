@@ -1,6 +1,6 @@
 
-//<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
-<img src="[https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500](https://img.freepik.com/free-vector/programmer-work-with-working-day-symbols-flat-illustration_1284-60322.jpg?t=st=1718572490~exp=1718576090~hmac=d6ecf6b4bc79ccde994c02317f2367793bb18e2a2c5cecbc217982b074675a9f&w=1060)">
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
+
 <h1 align="center">Hi 👋, I'm Abhradip Roy</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
